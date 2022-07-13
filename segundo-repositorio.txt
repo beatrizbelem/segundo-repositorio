@@ -1,0 +1,5 @@
+git remote -v (verifica se o repositório local tá conectado com o do GitHub)
+git status (verifica stage area, se tiver arquivos vermelhos, eles não vão entrar no commit, os verdes vão entrar)
+git add -A (adiciona todos os arquivos no stage area)
+git commit -m “mensagem do commit”
+git push (envia commit pro GitHub)
